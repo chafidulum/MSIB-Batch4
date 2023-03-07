@@ -1,0 +1,2 @@
+file ini digunakan untuk merge
+ketika file merge dilokal urutanna
