@@ -1,0 +1,3 @@
+ini adalah cabang (branch)
+setiap file yang terdapat di branch tidak terlihat di master, kecuali sudah di merge dengan perintah git merge
+perintah membuat branch git branch nama _branch
